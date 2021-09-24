@@ -92,5 +92,8 @@ def main() -> None:
 
 
 if __name__ == '__main__':
+    
     main()
+    #update.message.reply_text("Informacion")
+
 
