@@ -1,0 +1,35 @@
+EL OBJETO es un automovil o una casa por ejemplo, entonces:
+
+CLASES: definimos propiedades, metodos de los objetos es el module
+ej: automovil, casa, etc que tendran atributos y propiedades: VARIABLES, o sea la caracteristicas: 
+color, marca, cilindrada, etc
+Las clases tambien tienen METODOS que serían las funciones
+
+METODOS: son las acciones que pueden hacer, ej: arrancar, acelerar, frenar, enc la radio, etc
+
+Creo una clase: 
+new automovil() y le podemos dar valores a los atributos y propiedades: BMW, negro, 150cc, etc
+Este objeto tienen los mismos metotodos (arrancar, acelerar, etc)
+
+ABSTACCION:
+Puedo usar OBJETOS y METODOS sin conocer el funcionamiento interno que tiene ese objeto
+No necesito saber que hay dentro de las CLASES pero puedo utilizarlo para una tarea concreta
+o sea me ABSTRAIGO del BMW y puedo usar los METODOS para cualquier vehiculo
+
+HERENCIA:
+otro OBJETO puede heredar CLASES y METODOS.
+Por ejemplo moto, camion, buses HEREDAN las CLASES Y METODOS del OBJETO
+generico y principal vehiculo y voy a agregar CLASES Y METODOS particulares
+ej: la moto no tiene cenicero, entonces es una CLASE que no se va a usar
+o levantar los vidrios es un METODO que no se incluye en la moto
+
+MODULARIDAD:
+Puedo dividir la aplicacion en partes mas pequeñas, concretas y especificas
+se encapsulan aplicaciones mas pequeñas
+
+OCULTACION:
+Cada objeto tienen sus datos que deberían modificarse desde dentro de del objeto
+deberian tener GET o SET para cambiarlos desde afuera
+
+
+
