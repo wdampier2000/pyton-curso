@@ -1,7 +1,9 @@
 [
     {
         "nombre" : "Python",
-        "slug" : "python"
+        "slug" : "python",
+        "duracion" : "3 Hs"
+    
     },
     {
         "nombre" : "Go",
